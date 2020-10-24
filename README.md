@@ -3,6 +3,9 @@
 这是使用react实现的简单的数字华容道小游戏。
 思路简单，练手项目。
 
+![start](./src/img/start.jpg)
+
+![final](./src/img/final.jpg)
 ***
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
